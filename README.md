@@ -6,7 +6,7 @@
 [![Gmail: arielgerardorios@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arielgerardorios@gmail.com)
 [![Upwork: Ariel Gerardo Rios](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0165c9aadb18b463fc?viewMode=1)
 
-I'm working as senior software engineer at [Eventbrite](https://www.eventbrite.com/).
+I'm working as senior software engineer at [OnTop](https://www.getontop.com/).
 
 I love coding, containers, metrics and having fun when working.
 
