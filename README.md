@@ -6,9 +6,9 @@
 [![Gmail: arielgerardorios@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arielgerardorios@gmail.com)
 [![Upwork: Ariel Gerardo Rios](https://img.shields.io/badge/UpWork-6FDA44?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0165c9aadb18b463fc?viewMode=1)
 
-I'm working as senior software engineer at [OnTop](https://www.getontop.com/).
+I'm working as Technical Leader at [OnTop](https://www.getontop.com/).
 
-I love coding, containers, metrics and having fun when working.
+I love distributed systems, team building and helping others succeed.
 
 Reading a lot, writing some every now and then. See my blog at http://ariel17.com.ar.
 
